@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.app.affan.entity&apos; to &apos;08SpringBootRestConsumerEx/src/main/java/com.app.affan&apos;&#x0D;&#x0A;- Original project: &apos;07SpringBootRestProducer&apos;&#x0D;&#x0A;- Destination element: &apos;08SpringBootRestConsumerEx/src/main/java/com.app.affan&apos;&#x0D;&#x0A;- Original element: &apos;07SpringBootRestProducer/src/main/java/com.app.affan.entity&apos;" description="Copy package" destination="=08SpringBootRestConsumerEx/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.affan" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.affan.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1701673689952" version="1.0"/>
+</session>
